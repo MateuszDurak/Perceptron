@@ -1,0 +1,13 @@
+The modern forum originated from bulletin boards, and so-called computer conferencing systems, and are a technological evolution of the dialup bulletin board system.[2][3] From a technological standpoint, forums or boards are web applications managing user-generated content.[3][4]
+
+Early Internet forums could be described as a web version of an electronic mailing list or newsgroup (such as exist on Usenet); allowing people to post messages and comment on other messages. Later developments emulated the different newsgroups or individual lists, providing more than one forum, dedicated to a particular topic.[2]
+
+Internet forums are prevalent in several developed countries. Japan posts the most[citation needed] with over two million per day on their largest forum, 2channel. China also has many millions of posts on forums such as Tianya Club.
+
+Some of the first forum systems were the Planet-Forum system, developed at the beginning of the 1970s, the EIES system, first operational in 1976, and the KOM system, first operational in 1977.
+
+One of the first forum sites (which is still active today) is Delphi Forums, once called Delphi. The service, with four million members, dates to 1983.
+
+Forums perform a function similar to that of dial-up bulletin board systems and Usenet networks that were first created starting in the late 1970s.[2] Early web-based forums date back as far as 1994, with the WIT[5] project from W3 Consortium and starting from this time, many alternatives were created.[6] A sense of virtual community often develops around forums that have regular users. Technology, video games, sports, music, fashion, religion, and politics are popular areas for forum themes, but there are forums for a huge number of topics. Internet slang and image macros popular across the Internet are abundant and widely used in Internet forums.
+
+Forum software packages are widely available on the Internet and are written in a variety of programming languages, such as PHP, Perl, Java and ASP. The configuration and records of posts can be stored in text files or in a database. Each package offers different features, from the most basic, providing text-only postings, to more advanced packages, offering multimedia support and formatting code (usually known as BBCode). Many packages can be integrated easily into an existing website to allow visitors to post comments on articles.
