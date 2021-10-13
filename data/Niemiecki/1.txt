@@ -1,0 +1,410 @@
+Künstliche Intelligenz (KI), auch artifizielle Intelligenz (AI bzw. A. I.), englisch artificial intelligence (AI bzw. A. I.) ist ein Teilgebiet der Informatik, das sich mit der Automatisierung intelligenten Verhaltens und dem maschinellen Lernen befasst. Der Begriff ist schwer definierbar, da es bereits an einer genauen Definition von „Intelligenz“ mangelt. Dennoch wird er in Forschung und Entwicklung verwendet.
+
+Meist bezeichnet künstliche Intelligenz den Versuch, bestimmte Entscheidungsstrukturen des Menschen nachzubilden, indem z. B. ein Computer so gebaut und programmiert wird, dass er relativ eigenständig Probleme bearbeiten kann. Oftmals wird damit aber auch eine nachgeahmte Intelligenz bezeichnet, wobei durch meist einfache Algorithmen ein „intelligentes Verhalten“ simuliert werden soll, etwa bei Computergegnern in Computerspielen.
+
+
+Inhaltsverzeichnis
+1	Allgemeines
+1.1	Starke und schwache KI
+1.2	Forschungsgebiete
+2	Geschichte
+3	Teilgebiete
+3.1	Wissensbasierte Systeme
+3.2	Musteranalyse und Mustererkennung
+3.3	Mustervorhersage
+3.4	Robotik
+3.5	Modellierung anhand der Entropiekraft
+3.6	Künstliches Leben
+4	Methoden
+4.1	Suchen
+4.2	Planen
+4.3	Optimierungsmethoden
+4.4	Logisches Schließen
+4.5	Approximationsmethoden
+5	Anwendungen
+5.1	KI in der Medizin
+5.2	KI in der Juristik
+5.3	KI im Marketing
+5.4	KI in Computer- und Gesellschaftsspielen
+5.5	KI zur Erzeugung von Kunstwerken
+5.6	KI zur Herstellung von Produktdesign
+5.7	KI in der Hochschulbildung
+6	Turing-Test
+7	Technologische Singularität
+8	Superintelligenz
+9	Vergleich künstlicher Intelligenz mit menschlicher Intelligenz
+9.1	Kognitive Intelligenz
+9.2	Sensomotorische Intelligenz
+9.3	Emotionale Intelligenz
+9.4	Soziale Intelligenz
+10	Bewusstsein bei künstlicher Intelligenz
+11	Angrenzende Wissenschaften
+11.1	Sprachwissenschaft
+11.2	Psychologie
+11.3	Psychotherapie
+11.4	Philosophie
+11.5	Menschenrechte
+11.6	Informatik
+12	Kritik an der KI-Forschung
+12.1	Vorschläge zum Umgang mit KI
+12.2	Verbreitung von KI in Deutschland
+12.3	Das KI-Observatorium
+13	Darstellung in Film und Literatur
+13.1	Beispiele (Auswahl)
+14	Soziale Auswirkungen
+15	Filmische Dokumentationen
+16	Literatur
+17	Weblinks
+18	Einzelnachweise
+Allgemeines
+Im Verständnis des Begriffs künstliche Intelligenz spiegelt sich oft die aus der Aufklärung stammende Vorstellung vom „Menschen als Maschine“ wider, dessen Nachahmung sich die sogenannte starke KI zum Ziel setzt: eine Intelligenz zu erschaffen, die das menschliche Denken mechanisieren soll,[1] bzw. eine Maschine zu konstruieren und zu bauen, die intelligent reagiert oder sich eben wie ein Mensch verhält. Die Ziele der starken KI sind nach Jahrzehnten der Forschung weiterhin visionär.
+
+Starke und schwache KI
+Starke KI wären Computersysteme, die auf Augenhöhe mit Menschen die Arbeit zur Erledigung schwieriger Aufgaben übernehmen können. Demgegenüber geht es bei schwacher KI darum, konkrete Anwendungsprobleme zu meistern. Das menschliche Denken und technische Anwendungen sollen hier in Einzelbereichen unterstützt werden.[1] Die Fähigkeit zu lernen ist eine Hauptanforderung an KI-Systeme und muss ein integraler Bestandteil sein, der nicht erst nachträglich hinzugefügt werden darf. Ein zweites Hauptkriterium ist die Fähigkeit eines KI-Systems, mit Unsicherheit und probabilistischen Informationen umzugehen.[2] Insbesondere sind solche Anwendungen von Interesse, zu deren Lösung nach allgemeinem Verständnis eine Form von „Intelligenz“ notwendig zu sein scheint. Letztlich geht es der schwachen KI somit um die Simulation intelligenten Verhaltens mit Mitteln der Mathematik und der Informatik, es geht ihr nicht um Schaffung von Bewusstsein oder um ein tieferes Verständnis von Intelligenz. Während die Schaffung starker KI an ihrer philosophischen Fragestellung bis heute scheiterte, sind auf der Seite der schwachen KI in den letzten Jahren bedeutende Fortschritte erzielt worden.
+
+Ein starkes KI-System muss nicht viele Gemeinsamkeiten mit dem Menschen haben. Es wird wahrscheinlich eine andersartige kognitive Architektur aufweisen und in seinen Entwicklungsstadien ebenfalls nicht mit den evolutionären kognitiven Stadien des menschlichen Denkens vergleichbar sein (Evolution des Denkens). Vor allem ist nicht anzunehmen, dass eine künstliche Intelligenz Gefühle wie Liebe, Hass, Angst oder Freude besitzt.[3] Sie kann solchen Gefühlen entsprechendes Verhalten jedoch simulieren.
+
+Forschungsgebiete
+Neben den Forschungsergebnissen der Kerninformatik selbst sind in die Erforschung der KI Ergebnisse der Psychologie, Neurologie und Neurowissenschaften, der Mathematik und Logik, Kommunikationswissenschaft, Philosophie und Linguistik eingeflossen. Umgekehrt nahm die Erforschung der KI auch ihrerseits Einfluss auf andere Gebiete, vor allem auf die Neurowissenschaften. Dies zeigt sich in der Ausbildung des Bereichs der Neuroinformatik, der der biologieorientierten Informatik zugeordnet ist, sowie der Computational Neuroscience.
+
+Bei künstlichen neuronalen Netzen handelt es sich um Techniken, die ab Mitte des 20. Jahrhunderts entwickelt wurden und auf der Neurophysiologie aufbauen.
+
+KI stellt somit kein geschlossenes Forschungsgebiet dar. Vielmehr werden Techniken aus verschiedenen Disziplinen verwendet, ohne dass diese eine Verbindung miteinander haben müssen.
+
+Eine wichtige Tagung ist die International Joint Conference on Artificial Intelligence (IJCAI), die seit 1969 stattfindet.
+
+Geschichte
+→ Hauptartikel: Geschichte der künstlichen Intelligenz
+Teilgebiete
+Wissensbasierte Systeme
+Wissensbasierte Systeme modellieren eine Form rationaler Intelligenz für sogenannte Expertensysteme. Diese sind in der Lage, auf eine Frage des Anwenders auf Grundlage formalisierten Fachwissens und daraus gezogener logischer Schlüsse Antworten zu liefern. Beispielhafte Anwendungen finden sich in der Diagnose von Krankheiten oder der Suche und Beseitigung von Fehlern in technischen Systemen.
+
+Beispiele für wissensbasierte Systeme sind Cyc und Watson.
+
+Musteranalyse und Mustererkennung
+Visuelle Intelligenz ermöglicht es, Bilder beziehungsweise Formen zu erkennen und zu analysieren. Als Anwendungsbeispiele seien hier Handschrifterkennung, Identifikation von Personen durch Gesichtserkennung, Abgleich der Fingerabdrücke oder der Iris, industrielle Qualitätskontrolle und Fertigungsautomation (letzteres in Kombination mit Erkenntnissen der Robotik) genannt.
+
+Mittels sprachlicher Intelligenz ist es beispielsweise möglich, einen geschriebenen Text in Sprache umzuwandeln (Sprachsynthese) und umgekehrt einen gesprochenen Text zu verschriftlichen (Spracherkennung). Diese automatische Sprachverarbeitung lässt sich ausbauen, so dass etwa durch latente semantische Analyse (kurz LSI) Wörtern und Texten Bedeutung beigemessen werden kann.
+
+Beispiele für Systeme zur Mustererkennung sind Google Brain und Microsoft Adam.[4]
+
+Mustervorhersage
+Die Mustervorhersage ist eine Erweiterung der Mustererkennung. Sie stellt etwa die Grundlage des von Jeff Hawkins definierten hierarchischen Temporalspeichers dar.
+
+“Prediction is not just one of the things your brain does. It is the primary function of the neocortex, and the foundation of intelligence.”
+
+„Vorhersage ist nicht einfach nur eines der Dinge, die dein Gehirn tut. Sie ist die Hauptfunktion des Neocortex und das Fundament der Intelligenz.“
+
+– Jeff Hawkins: On Intelligence[5]
+Solche Systeme bieten den Vorteil, dass z. B. nicht nur ein bestimmtes Objekt in einem einzelnen Bild erkannt wird (Mustererkennung), sondern auch anhand einer Bildserie vorhergesagt werden kann, wo sich das Objekt als nächstes aufhalten wird.
+
+Robotik
+Die Robotik beschäftigt sich mit manipulativer Intelligenz. Mit Hilfe von Robotern können unter anderem gefährliche Tätigkeiten wie etwa die Minensuche oder auch immer gleiche Manipulationen, wie sie z. B. beim Schweißen oder Lackieren auftreten können, automatisiert werden.
+
+Der Grundgedanke ist es, Systeme zu schaffen, die intelligente Verhaltensweisen von Lebewesen nachvollziehen können. Beispiele für derartige Roboter sind ASIMO und Atlas.
+
+Modellierung anhand der Entropiekraft
+Basierend auf der Arbeit des Physikers Alexander Wissner-Gross kann ein intelligentes System durch die Entropiekraft modelliert werden. Dabei versucht ein intelligenter Agent seine Umgebung (Zustand X0), durch eine Handlung (Kraftfeld F) zu beeinflussen, um eine größtmögliche Handlungsfreiheit (Entropie S) in einem zukünftigen Zustand X zu erreichen.[6][7]
+
+Künstliches Leben
+KI überlappt sich mit der Disziplin künstliches Leben (Artificial life, AL),[8] wird als übergeordnete oder auch als eine Subdisziplin gesehen.[9] AL muss deren Erkenntnisse integrieren, da Kognition eine Kerneigenschaft von natürlichem Leben ist, nicht nur des Menschen.
+
+Methoden
+Die Methoden der KI lassen sich grob in zwei Dimensionen einordnen: symbolische vs. neuronale KI und Simulationsmethode vs. phänomenologische Methode. Die Zusammenhänge veranschaulicht die folgende Grafik:
+
+Künstliche Intelligenz Methoden.png
+
+Die Neuronale KI verfolgt einen Bottom-up-Ansatz und möchte das menschliche Gehirn möglichst präzise nachbilden. Die symbolische KI verfolgt umgekehrt einen Top-down-Ansatz und nähert sich den Intelligenzleistungen von einer begrifflichen Ebene her. Die Simulationsmethode orientiert sich so nah wie möglich an den tatsächlichen kognitiven Prozessen des Menschen. Dagegen kommt es dem phänomenologischen Ansatz nur auf das Ergebnis an.
+
+Viele ältere Methoden, die in der KI entwickelt wurden, basieren auf heuristischen Lösungsverfahren. In jüngerer Zeit spielen mathematisch fundierte Ansätze aus der Statistik, der mathematischen Programmierung und der Approximationstheorie eine bedeutende Rolle.
+
+Die konkreten Techniken der KI lassen sich grob in Gruppen einteilen:
+
+Suchen
+Die KI beschäftigt sich häufig mit Problemen, bei denen nach bestimmten Lösungen gesucht wird. Verschiedene Suchalgorithmen werden dabei eingesetzt. Ein Paradebeispiel für die Suche ist der Vorgang der Wegfindung, der in vielen Computerspielen eine zentrale Rolle einnimmt und auf Suchalgorithmen wie zum Beispiel dem A*-Algorithmus basiert.
+
+Planen
+Neben dem Suchen von Lösungen stellt das Planen einen wichtigen Aspekt der KI dar. Der Vorgang des Planens unterteilt sich dabei in zwei Phasen:
+
+Die Zielformulierung: Ausgehend vom momentanen Umgebungs- bzw. Weltzustand wird ein Ziel definiert. Ein Ziel ist hierbei eine Menge von Weltzuständen, bei der ein bestimmtes Zielprädikat erfüllt ist.
+Die Problemformulierung: Nachdem bekannt ist, welche Ziele angestrebt werden sollen, wird in der Problemformulierung festgelegt, welche Aktionen und Weltzustände betrachtet werden sollen. Es existieren hierbei verschiedene Problemtypen.
+Planungssysteme planen und erstellen aus solchen Problembeschreibungen Aktionsfolgen, die Agentensysteme ausführen können, um ihre Ziele zu erreichen.
+
+Optimierungsmethoden
+Oft führen Aufgabenstellungen der KI zu Optimierungsproblemen. Diese werden je nach Struktur entweder mit Suchalgorithmen aus der Informatik oder, zunehmend, mit Mitteln der mathematischen Programmierung gelöst. Bekannte heuristische Suchverfahren aus dem Kontext der KI sind evolutionäre Algorithmen.
+
+Logisches Schließen
+	
+Dieser Artikel oder nachfolgende Abschnitt ist nicht hinreichend mit Belegen (beispielsweise Einzelnachweisen) ausgestattet. Angaben ohne ausreichenden Beleg könnten demnächst entfernt werden. Bitte hilf Wikipedia, indem du die Angaben recherchierst und gute Belege einfügst.
+Eine Fragestellung der KI ist die Erstellung von Wissensrepräsentationen, die dann für automatisches logisches Schließen benutzt werden können. Menschliches Wissen wird dabei – soweit möglich – formalisiert, um es in eine maschinenlesbare Form zu bringen. Diesem Ziel haben sich die Entwickler diverser Ontologien verschrieben.
+
+Schon früh beschäftigte sich die KI damit, automatische Beweissysteme zu konstruieren, die Mathematikern und Informatikern beim Beweisen von Sätzen und beim Programmieren (Logikprogrammierung) behilflich wären. Zwei Schwierigkeiten zeichneten sich ab:
+
+Formuliert man Sätze in den natürlicher Sprache nahen, relativ bequemen Beschreibungssprachen, werden die entstehenden Suchprobleme allzu aufwändig. In der Praxis mussten Kompromisse geschlossen werden, bei denen die Beschreibungssprache für den Benutzer etwas umständlicher, die zugehörigen Optimierungsprobleme für den Rechner dafür jedoch einfacher zu handhaben waren (Prolog, Expertensysteme).
+Selbst mächtige Beschreibungssprachen werden unhandlich, wenn man versucht, unsicheres oder unvollständiges Wissen zu formulieren. Für praktische Probleme kann dies eine ernste Einschränkung sein. Die aktuelle Forschung untersucht daher Systeme, die die Regeln der Wahrscheinlichkeitsrechnung anwenden, um Unwissen und Unsicherheit explizit zu modellieren. Algorithmisch unterscheiden sich diese Methoden von den älteren Verfahren: neben Symbolen werden auch Wahrscheinlichkeitsverteilungen manipuliert.
+Eine andere Form des logischen Schließens stellt die Induktion dar (Induktionsschluss, Induktionslogik), in der Beispiele zu Regeln verallgemeinert werden (maschinelles Lernen). Auch hier spielen Art und Mächtigkeit der Wissensrepräsentation eine wichtige Rolle. Man unterscheidet zwischen symbolischen Systemen, in denen das Wissen – sowohl die Beispiele als auch die induzierten Regeln – explizit repräsentiert ist, und subsymbolischen Systemen wie neuronalen Netzen, denen zwar ein berechenbares Verhalten „antrainiert“ wird, die jedoch keinen Einblick in die erlernten Lösungswege erlauben.
+
+Approximationsmethoden
+In vielen Anwendungen geht es darum, aus einer Menge von Daten eine allgemeine Regel abzuleiten (maschinelles Lernen). Mathematisch führt dies zu einem Approximationsproblem. Im Kontext der KI wurden hierzu unter anderem künstliche neuronale Netze vorgeschlagen, die als universale Funktionsapproximatoren eingesetzt werden können, jedoch insbesondere bei vielen verdeckten Schichten schwer zu analysieren sind. Manchmal verwendet man deshalb alternative Verfahren, die mathematisch einfacher zu analysieren sind.
+
+Künstliches Neuronales Netz
+
+→ Hauptartikel: Künstliches neuronales Netz und Deep Learning
+Große Fortschritte erzielt die künstliche Intelligenz in jüngster Zeit im Bereich künstlicher neuronaler Netze, auch unter dem Begriff Deep Learning bekannt. Dabei werden neuronale Netze, die grob von der Struktur des Gehirns inspiriert sind, künstlich auf dem Computer simuliert. Viele der jüngsten Erfolge wie bei Handschrifterkennung, Spracherkennung, Gesichtserkennung, autonomem Fahren, maschineller Übersetzung, auch der Erfolg von AlphaGo beruhen auf dieser Technik.
+
+Anwendungen
+Für künstliche Intelligenz gibt es zahlreiche Anwendungsgebiete. Einige Beispiele kurz zusammengefasst:
+
+Suchmaschinen erleichtern den Umgang mit der im Internet vorhandenen Informationsflut.
+Bei der Exploration von Ölquellen, der Steuerung von Marsrobotern oder der medizinischen Diagnose werden Expertensysteme eingesetzt.
+Maschinelle Übersetzung ist weit verbreitet. Beispiele: Google Übersetzer, DeepL
+Texterkennung und Textgenerierung, zum Beispiel von Eilmeldungen, Werbung oder für besonders strukturierte Daten
+Data-Mining und Text Mining bieten Methoden zur Extraktion von Kerninformationen aus nicht- oder nur schwach strukturierten Texten, wie es etwa zur Erstellung von Inhaltsanalysen benötigt wird.
+Mittels Argumentation Mining können Argumentationsstrukturen in Texten analysiert werden.[10]
+Informationsrückgewinnung hat das Wiederauffinden und Zusammenführen bereits bestehender, komplexer Strukturen in sehr großen Datensätzen zum Ziel, ein Anwendungsgebiet sind Internet-Suchmaschinen.
+Analyse und Prognose von Aktienkursentwicklungen werden gelegentlich durch künstliche neuronale Netze unterstützt.
+Optische Zeichenerkennung liest gedruckte Texte zuverlässig.
+Handschrifterkennung wird u. a. millionenfach in Geräten wie PDAs, Smartphones und Tabletcomputern verwendet.
+Spracherkennung ermöglicht Sprachsteuerung oder das Diktieren eines Textes. Wird u. a. in Smartphones eingesetzt, z. B. bei Siri, Google Assistant, Cortana und Samsungs Bixby oder auch Amazon Echo.
+Gesichtserkennung, z. B. die App FindFace.
+Deepfakes, d. h. der Austausch von Gesichtern oder anderen Medieninhalten
+Bilderkennung, z. B. das automatische Taggen von Bildern bei Flickr oder die Cloud Vision API von Google.
+Computeralgebrasysteme, wie Mathematica oder Maple, unterstützen Mathematiker, Wissenschaftler und Ingenieure bei ihrer Arbeit.
+Computer-Vision-Systeme überwachen öffentliche Plätze, Produktionsprozesse oder sichern den Straßenverkehr.
+In Computerspielen dienen die Algorithmen, die in der KI entwickelt wurden, dazu, computergesteuerte Mitspieler intelligent handeln zu lassen. (siehe auch KI in Computerspielen)
+Bei Gruppensimulationen für Sicherheitsplanung oder Computeranimation wird ein möglichst realistisches Verhalten von (Menschen-)Massen berechnet.
+Ein wissensbasiertes System bzw. spezieller ein Expertensystem stellt Lösungen bei komplexen Fragestellungen zur Verfügung. Beispiele für solche Anwendungen sind: Das Computerprogramm Watson (siehe weiter oben) oder die Wissensdatenbank Cyc. In einfacherer Form wird dies u. a. in Smartphones eingesetzt z. B. bei Siri, Google Now, Cortana und Samsungs S Voice oder auch Amazon Echo.
+Semantische Suchmaschinen, wie Wolfram Alpha
+Selbstfahrende Kraftfahrzeuge, z. B. Google Driverless Car (siehe oben)
+Humanoide Roboter, z. B. Atlas, ASIMO, Pepper
+Bots, insbesondere social Bots (z. B. cleverbot)
+Autonome Waffen
+Intelligenter Persönlicher Assistent (oder auch digitaler Sprachassistent)
+Suche nach extrasolaren Planeten durch Auswertung von Helligkeitsschwankungen von Sternen über die Transitmethode[11]
+KI in der Medizin
+→ Hauptartikel: Künstliche Intelligenz in der Medizin
+KI in der Juristik
+Ein großer Teil der Arbeit von Juristen besteht in der Analyse von Akten, zum Beispiel von Präzedenzfällen, um daraus Argumente zu entwickeln. Derartige Arbeit kann mittlerweile zu einem Teil von KIs übernommen werden.[12] Die Beratungsfirma McKinsey schätzte 2017, dass etwa 22 Prozent der Arbeit von Anwälten und 35 Prozent der Arbeit von Rechtshelfern mit Hilfe von KIs automatisiert werden könnte. Die KIs werden anhand von Millionen von Dokumenten und Fallbeispielen und juristischen Anträgen trainiert. Danach kann eine KI diejenigen Dokumente markieren, die ein Jurist für seinen Fall braucht; oft besser, als dies ein Mensch könnte. JPMorgan gab bekannt, die KI Contract Intelligence einzusetzen, die nach Aussagen von JPMorgan eine Menge von Daten in Sekunden analysieren kann, wofür Juristen und Rechtshelfer 360.000 Stunden benötigen würden.[13]
+
+KI im Marketing
+Im Marketing wird künstliche Intelligenz eingesetzt, um zum Beispiel Werbe-Emails zu verschicken, den Kundendienst durch Social Bots und Chatbots abzulösen, Analysen und Prognosen des Markts und des Kunden, beispielsweise auf Basis von Big Data, durchzuführen und kundenspezifische Werbeanzeigen, Empfehlungen und Suchergebnisse, sowie programmierte Abläufe zu entwickeln. So beabsichtigte der Online-Versandhändler Zalando im März 2018, 250 Arbeitsplätze im Marketingbereich im Standort Berlin zu streichen, die durch künstliche Intelligenz ersetzt werden sollen.[14][15][16]
+
+KI in Computer- und Gesellschaftsspielen
+In Computerspielen wird eine KI meistens dazu verwendet um NPC, sogenannte Nicht-Spieler-Charaktere, die menschenähnliches Verhalten simulieren (zum Beispiel als simulierte Verbündete oder Computergegner) zu steuern oder bestimmte Dinge in der Spielwelt oder bei den Funktionen des Spielecharakters (zum Beispiel Routenfindung, prozedurale Generierung, automatische Verbesserungen und Vervollständigungen beim Streckenbau oder andere Algorithmen) zu berechnen. Bei einigen Spielen lässt sich der Schwierigkeitsgrad der KI-Gegner einstellen und optional wählen ob man gegen eine KI, gegen echte Spieler oder eine Mischform spielen möchte. Bei ein paar Spielen kann sich die KI auch automatisch an das Spielverhalten anpassen oder kann aus Fehlern lernen. Da im Einzelspielermodus oft Gegner fehlen, wird auf eine KI zurückgegriffen. Zudem wird KI in Computerspielen verwendet um viele oder sehr spezielle Charaktere zu simulieren, die nicht oder sehr schwer von echten Menschen übernommen werden könnten. Teilweise lassen sich KIs in Computerspielen aber auch einfach austricksen, da ein Mensch ein bestimmtes Muster einer KI umgehen kann. Der Realismus und das Gameplay eines Computerspiels wird daher auch oft an der KI gemessen.[17][18][19]
+
+Auch wird KI in Strategie-Brettspielen als Ersatz für den menschlichen Partner eingesetzt. Gegen sehr leistungsfähige Versionen dieser Programme haben auch Weltmeister kaum Gewinnchancen. Erfolge gegen menschliche Profispieler erzielte KI zum Beispiel in Backgammon, Schach, Checkers, Go und StarCraft II. Das Meistern komplexer Spiele ist oft Gegenstand der Forschung, um so neue Methoden der künstlichen Intelligenz zu entwickeln und zu demonstrieren.[20] Inzwischen tragen diese Programme Partien untereinander aus. 2016 besiegte die auf DeepMind aufbauende KI AlphaGo den 18-maligen Go-Weltmeister, den Südkoreaner Lee Sedol unter Turnierbedingungen 4:1.[21] Ende 2017 hat die Neuentwicklung AlphaZero gegen das bis dahin weltbeste Schachprogramm Stockfish in 100 ausgetragenen Partien deutlich obsiegt.[22] 2019 gelang es der DeepMind-Weiterentwicklung Alpha Star, menschliche Top-Spieler beim populären und als sehr schwer geltenden Strategiespiel StarCraft II 10:1 zu besiegen.[23]
+
+Darüber hinaus werden auch KIs entwickelt, die anstelle eines menschlichen Spielers Videospiele wie Jump ’n’ Runs, Rollenspiele oder Rennspiele steuern.[24][25][26] Ähnlich ist die Entwicklung im E-Sport-Bereich, in dem Profigamer versuchen, die besten KIs zu schlagen, während Entwickler darauf hinarbeiten, die besten Spieler durch eine KI zu besiegen.[27]
+
+KI zur Erzeugung von Kunstwerken
+Forscher aus Tübingen haben neuronale Netze dazu verwendet, ein vorgegebenes Foto im Stil eines berühmten Künstlers zu malen z. B. Van Gogh oder Edvard Munch.[28] Forscher bei Google haben neuronale Netze darauf trainiert, aus einer Art weißem Rauschen Bilder im Stil von Van Gogh und anderen Künstlern zu produzieren. Die Bilder wurden später auf einer Auktion versteigert.[29][30]
+
+Im Juli 2017 stellten Forscher der Rutgers-Universität eine KI vor, die künstlerische Gemälde produziert. Die KI wurde mit ca. 80.000 Bildwerken der westlichen Kunstgeschichte trainiert. In einem Blindtest wurden die von der KI erstellten Gemälde mit Bildern, die auf der Kunstmesse Art Basel ausgestellt worden waren, vermischt und 18 Testpersonen (künstlerischen Laien)[31] in einem Blindtest zur Beurteilung vorgelegt. Die Testpersonen sollten einschätzen, ob die Bilder von Menschen oder einem Computer erzeugt worden waren. Bei den durch echten, auf der Art Basel ausgestellten Kunstwerken unterstellten die Testpersonen bei 52 % aller Werke, sie seien durch einen Computer erstellt. Bei den KI-basierten Bildern, nahmen die Testpersonen das nur für 25 % aller Bilder an.[32]
+
+
+Durch eine KI errechnetes Porträt des Künstlers Joseph Ayerle, das die Schauspielerin Ornella Muti zeigt. Die KI wurde darauf trainiert, den Stil des Renaissance-Malers Raffael nachzugestalten.
+Im März 2018 wurde ein Videokunstwerk publiziert, in dem eine durch KI erschaffene Ornella Muti agierte. Der Künstler Joseph Ayerle hatte mit Hilfe eines künstlichen neuronalen Netzes neue Filmsequenzen errechnet, die die echte italienische Schauspielerin nie gespielt hat.[33]
+
+Im Oktober 2018 versteigerte das Auktionshaus Christie’s das durch künstliche Intelligenz erschaffene „Portrait of Edmond de Belamy“. Das ursprünglich auf einen Verkehrswert von 7.000 bis 10.000 US-Dollar geschätzte Bild erzielte in der Auktion einen Erlös von 432.500 Dollar.
+
+Hinter der Herstellung des Porträts stand die französische Künstlergruppe Obvious, die eine künstliche Intelligenz mit den Bilddaten von 15.000 echten Gemälden[34] des 14. bis 20. Jahrhunderts trainiert hatte. Besondere Beachtung in der Presse fand, dass das Bild nicht mit den Signaturen der Künstler unterzeichnet wurde, sondern mit der Formel „min G max D Ex[log(D(x))]+Ez[log(1-D(G(z)))]“, die nach Angaben des Künstlerteams bei seiner Entstehung genutzt wurde.[35]
+
+Der Autor George R. R. Martin schrieb an seinem sechsten Buch der Reihe Game of Thrones, das von der Fangemeinde ungeduldig erwartet wurde. Der Programmierer Zack Thoutt trainierte eine KI (Recurrent Neural Net) mit den ersten fünf Büchern der Serie und ließ von der KI ein sechstes Buch schreiben. Das Ergebnis wurde im Sommer 2017 im Internet veröffentlicht. Dabei entwickelte die KI einzelne Charaktere genauso weiter, wie das in manchen Fan-Theorien erwartet wurde, ohne dass die KI davon wusste. Mängel gibt es bei der Grammatik, einzelne Charaktere, die bereits verstorben waren, tauchen wieder auf und die Handlungsstränge sind nicht sehr spannend.[36]
+
+Sunspring ist der erste Kurzfilm (2016), dessen Drehbuch von einer KI geschrieben wurde.[37][38]
+
+Google versucht in seinem Magenta-Projekt, KIs zu erzeugen, die kreativ sind. So wurde im Sommer 2017 eine Klavier-Improvisation vorgestellt, die von einer KI komponiert wurde.[39] Bereits im Sommer 2016 veröffentlichte das Projekt Magenta einen kurzen Pop-Song, der von einer KI komponiert wurde.[40]
+
+Die Musik des Albums „I am AI“ der Sängerin Taryn Southern, vorgestellt im Herbst 2017, wurde von einer KI komponiert. Um einen Song mit Hilfe einer KI zu komponieren, verwendet man eine Software wie etwa Amper Music oder Jukedeck, wählt das Genre und weitere Paramenter wie Länge des Songs, Instrumentierung usw. Innerhalb von Sekunden komponiert die KI dann einen einzigartigen Song. Ein Musiker kann daraufhin Bruchstücke dieser Beispiele zu einem eigenen Song zusammenfügen. Somit kann jedermann mehr oder weniger professionelle Musik kreieren. Immer mehr Musiker geben zu, beim Komponieren KIs als Werkzeug zu benutzen.[41][42] Auch das Album „Hello World“ von Skygge wurde vollständig mit einer KI (Flow-Machine) komponiert. Die KI komponiert Soundstücke, die dann von Menschen sortiert, selektiert und zusammengesetzt werden, das sog. Kuratieren.[43]
+
+Kontrovers ist die Sicht der am Diskurs beteiligten Künstler über die Rolle der KI als Urheber eines Kunstwerks. Das Motto der Künstlergruppe Obvious lautet: „Kreativität ist nicht nur etwas für Menschen.“[44] Konträr dazu steht die Aussage des Künstlers Joseph Ayerle, der vom Massachusetts Institute of Technology mit den Worten zitiert wird: „KI kann erschaffen, aber sie ist nicht schöpferisch“.[45]
+
+KI zur Herstellung von Produktdesign
+Ein Team des US-amerikanischen 3D-Software-Experten Autodesk und der bekannte Designer Philippe Starck haben gemeinsam den – nach Angaben der Beteiligten – ersten „von künstlicher Intelligenz und Menschen gemeinsam entwickelte Stuhl“ erschaffen, den sogenannten A. I. Chair.[46]
+
+KI in der Hochschulbildung
+An einigen Hochschulen werden KI-Systeme zur individuellen Unterstützung von Studierenden und Lehrenden eingesetzt.[47]
+
+Automatisierte Assessments unterstützen Studierende beim Wissenserwerb
+Mit Hilfe von Learning Analytics werden digitale Bildungsangebote optimiert
+Adaptive Lernumgebungen passen sich an die individuellen Bedürfnisse der Lernenden an (z.B. MathSpring)
+Chatbots beantworten häufig gestellte Fragen (z.B. Eliza, Mitsuku, Jill Watson)
+Empfehlungssysteme helfen bei der Wahl von Studienfächern, Kursen, Stipendien und Ressourcen (z.B. Literatur)
+Turing-Test
+→ Hauptartikel: Turing-Test
+Um ein Kriterium zu haben, wann eine Maschine eine dem Menschen gleichwertige Intelligenz simuliert, wurde von Alan Turing der nach ihm benannte Turing-Test vorgeschlagen. Dabei stellt ein Mensch per Terminal beliebige Fragen an einen anderen Menschen bzw. eine KI, ohne dabei zu wissen, wer jeweils antwortet. Der Fragesteller muss danach entscheiden, ob es sich beim Interviewpartner um eine Maschine oder einen Menschen handelte. Ist die Maschine nicht von dem Menschen zu unterscheiden, so ist laut Turing die Maschine intelligent.[48] Bisher konnte keine Maschine den Turing-Test zweifelsfrei bestehen. Seit 1991 existiert der Loebner-Preis für den Turing-Test.
+
+Technologische Singularität
+→ Hauptartikel: Technologische Singularität
+Grob wird darunter der Zeitpunkt verstanden, an dem künstliche Intelligenz die menschliche Intelligenz übertrifft. Von diesem Zeitpunkt wird die weitere Entwicklung hauptsächlich von der KI vorangetrieben und nicht mehr vom Menschen.
+
+Superintelligenz
+→ Hauptartikel: Superintelligenz
+Eine Superintelligenz bezeichnet ein Wesen oder eine Maschine mit einer dem Menschen in vielen oder allen Gebieten überlegenen Intelligenz. Der Begriff wird häufig im Bereich künstlicher Intelligenz angewendet.
+
+Vergleich künstlicher Intelligenz mit menschlicher Intelligenz
+Nach Wolfgang Wahlster[49] muss man die menschliche Intelligenz in verschiedene Bereiche unterteilen: die kognitive Intelligenz, die sensomotorische Intelligenz, die emotionale Intelligenz, die soziale Intelligenz.
+
+Kognitive Intelligenz
+Bei der kognitiven Intelligenz sind Kognitive Systeme dem Menschen schon in vielen Bereichen überlegen. Zu diesem Bereich gehört das Schachspiel, das Spiel von Go und sonstige Brettspiele. Letztlich handelt es sich dabei um das Aufnehmen und Erlernen von Wissen sowie das Kombinieren und das Schlussfolgern aus diesem Wissen. Das entspricht oft dem, was Menschen sich in einer akademischen Ausbildung aneignen.
+
+Sensomotorische Intelligenz
+Bei dieser Intelligenz ist der Mensch der Maschine noch überlegen, allerdings sind manche Maschinen in Bereichen einzelner Sensoren überlegen. Grundsätzlich ist das menschliche Auge sehr gut ausgebildet. Aber eine geeignete Videokamera kann etwa auch Licht im Infrarotbereich und UV-Bereich verarbeiten, was ein Mensch nicht kann. In der Akustik können Mikrofone wesentlich geringere Lautstärken oder in Frequenzbereichen aufnehmen als das menschliche Ohr. Stärker gilt dies noch bei Geruch- und Geschmackssinn, wo maschinelle Sensoren deutlich überlegen sind. Jedoch kann ein Mensch diese Sinneseindrücke kombinieren (Sensorfusion), was eine Maschine bislang nur wenig kann. Dies könnte sich jedoch innerhalb weniger Jahre ändern.
+
+Emotionale Intelligenz
+Auf diesem Gebiet leistet die Maschine bislang fast nichts. Der Mensch kann sich in einen anderen Menschen hineinfühlen, Sympathie und Empathie, Mitgefühl, Mitleid, Trauer, Angst, Freude empfinden, Liebesgedichte schreiben, Zornausbrüche haben usw. Was Maschinen heute allerdings schon in Ansätzen können, ist die sog. Sentimentanalyse, d. h. durch Beobachtung der menschlichen Körpersprache, also des Gesichts, der Gestik usw. die Emotionen eines Menschen „lesen“. In eine ähnliche Richtung geht der Versuch eines finnischen Wissenschaftlerteams, der 2020 veröffentlicht wurde: Dabei soll es gelungen sein, menschliche Assoziationen durch eine KI modellieren zu lassen. Die KI wurde mit den EEG-Impulsen menschlicher Probanden trainiert.[50]
+
+Soziale Intelligenz
+Das ist die Fähigkeit, in einer menschlichen Gruppe angemessen zu (re-)agieren, etwa eine Stimmung zu erkennen oder konstruktiv zu beeinflussen, z. B. den Teamgeist. Eine Fähigkeit, die meist bei Unternehmern aber auch Politikern stark ausgeprägt ist. Auf diesem Gebiet kann die Maschine bislang nichts leisten.
+
+Bewusstsein bei künstlicher Intelligenz
+In den Neurowissenschaften ist es eine Grundannahme, dass das Bewusstsein ein Produkt unseres Gehirns ist (siehe Neuronales Korrelat des Bewusstseins). Nach Jürgen Schmidhuber ist das Bewusstsein nur ein Nebenprodukt des Problemlösens des Gehirns. So sei auch bei künstlichen Problemlösern (z. B. autonomen mobilen Robotern) von Vorteil, wenn diese sich ihrer selbst und ihrer Umgebung „bewusst“ seien. Schmidhuber bezieht sich bei „Bewusstsein“ im Kontext autonomer Roboter auf ein digitales Weltmodell inklusive des Systems selbst, nicht jedoch auf das Erleben von Zuständen. Ein Weltmodell könnte im Kontext von Reinforcement Learning dadurch erlernt werden, dass Aktionen belohnt werden, die das Weltmodell erweitern.[51]
+
+Angrenzende Wissenschaften
+Sprachwissenschaft
+Die Interpretation menschlicher Sprache durch Maschinen besitzt bei der KI-Forschung eine entscheidende Rolle. So ergeben sich etwaige Ergebnisse des Turing-Tests vor allem in Dialogsituationen, die bewältigt werden müssen.
+
+Die Sprachwissenschaft liefert mit ihren Grammatikmodellen und psycholinguistischen Semantikmodellen wie der Merkmals- oder der Prototypensemantik Grundlagen für das maschinelle „Verstehen“ komplexer natürlichsprachlicher Phrasen. Zentral ist die Frage, wie Sprachzeichen eine tatsächliche Bedeutung für eine künstliche Intelligenz haben können.[52] Das Chinese-Room-Argument des Philosophen John Searle sollte indes zeigen, dass es selbst dann möglich wäre, den Turing-Test zu bestehen, wenn den verwendeten Sprachzeichen dabei keinerlei Bedeutung beigemessen wird. Insbesondere Ergebnisse aus dem Bereich Embodiment betonen zudem die Relevanz von solchen Erfahrungen, die auf der Verkörperung eines Agenten beruhen sowie dessen Einbindung in eine sinnvolle Umgebung für jede Form von Kognition, also auch zur Konstruktion von Bedeutung durch eine Intelligenz.
+
+Eine Schnittstelle zwischen der Linguistik und der Informatik bildet die Computerlinguistik, die sich unter anderem mit maschineller Sprachverarbeitung und künstlicher Intelligenz beschäftigt.
+
+Psychologie
+Die Psychologie beschäftigt sich unter anderem mit dem Begriff Intelligenz.
+
+Psychotherapie
+In der Psychotherapieforschung existieren seit geraumer Zeit experimentelle Anwendungen der künstlichen Intelligenz, um Defizite und Engpässe in der psychotherapeutischen Versorgung zu überbrücken und Kosten zu sparen,[53] aber auch um sich anbahnende Krisen bei Patienten auf der Warteliste frühzeitig zu erkennen.[54]
+
+Philosophie
+Die philosophischen Aspekte der KI-Problematik gehören zu den weitreichendsten der gesamten Informatik.
+
+Die Antworten, die auf die zentralen Fragen dieses Bereiches gegeben werden, reichen weit in ontologische und erkenntnistheoretische Themen hinein, die das Denken des Menschen schon seit den Anfängen der Philosophie beschäftigen. Wer solche Antworten gibt, muss die Konsequenzen daraus auch für den Menschen und sich selbst ziehen. Nicht selten möchte man umgekehrt vorgehen und die Antworten, die man vor der Entwicklung künstlicher Intelligenz gefunden hat, auf diese übertragen. Doch wie sich zeigte, hat die künstliche Intelligenz zahlreiche Forscher dazu veranlasst, Probleme wie das Verhältnis zwischen Materie und Geist, die Ursprünge des Bewusstseins, die Grenzen der Erkenntnis, das Problem der Emergenz, die Möglichkeit außermenschlicher Intelligenz usw. in einem neuen Licht zu betrachten und zum Teil neu zu bewerten.
+
+Eine dem metaphysischen bzw. auch idealistischen Denken verpflichtete Sichtweise hält es (im Sinn einer schwachen KI) für unmöglich, dass Maschinen jemals mehr als nur simuliertes Bewusstsein mit wirklicher Erkenntnis und Freiheit besitzen könnten. Aus ontologischer Sicht kritisiert der amerikanische Philosoph Hubert Dreyfus die Auffassung der starken KI. Aufbauend auf der von Martin Heidegger in dessen Werk Sein und Zeit entwickelten Ontologie der „Weltlichkeit der Welt“ versucht Dreyfus zu zeigen, dass hinter das Phänomen der Welt als sinnhafte Bedeutungsganzheit nicht zurückgegangen werden kann: Sinn, d. h. Beziehungen der Dinge in der Welt aufeinander, sei ein Emergenzphänomen, denn es gibt nicht „etwas Sinn“ und dann „mehr Sinn“. Damit erweist sich jedoch auch die Aufgabe, die sinnhaften Beziehungen zwischen den Dingen der Welt in einen Computer einzuprogrammieren, als eigentlich unmögliches bzw. unendliches Vorhaben. Dies deshalb, weil Sinn nicht durch Addition von zunächst sinnlosen Elementen hergestellt werden kann.[55]
+
+Eine evolutionär-progressive Denkrichtung sieht es hingegen (im Sinn einer starken KI) als möglich an, dass Systeme der künstlichen Intelligenz einmal den Menschen in dem übertreffen könnten, was derzeit noch als spezifisch menschlich gilt. Dies birgt zum einen die Gefahr, dass solche KI-Maschinen sich gegen die Interessen der Menschen wenden könnten. Andererseits birgt diese Technologie die Chance, Probleme zu lösen, deren Lösung dem Menschen wegen seiner limitierten Kapazitäten schwerfällt (siehe auch technologische Singularität).
+
+Weitere Anknüpfungspunkte lassen sich in der analytischen Philosophie finden.
+
+Neben der Frage nach dem Sein und der nach dem Bewusstsein stellt sich im Rahmen der Rechtsphilosophie und Roboterethik auch die Frage, ob eine KI für ihr gesetzwidriges Handeln oder Fehlverhalten verantwortlich gemacht werden kann (z. B. bei einem Autounfall durch ein autonomes Fahrzeug) und wer alles dafür haftet.[56] Entwickler werden mit der Frage konfrontiert, wie eine KI moralisch und ethisch richtig handelt. So wird zum Beispiel überlegt, wie man das Trolley-Problem bei autonomen Fahrzeugen lösen soll.[57][58]
+
+Der russisch-amerikanische Biochemiker und Sachbuchautor Isaac Asimov beschreibt in seinen drei Robotergesetzen die Voraussetzungen für ein friedliches und unterstützendes Zusammenleben zwischen KI und Mensch. Diese Gesetze wurden später von anderen Autoren erweitert.
+
+Menschenrechte
+Zu den zentralen Fragen beim KI-Einsatz gehören die Aufteilung rechtlicher Verpflichtungen zwischen Staaten und Unternehmen sowie die Implikationen der Menschenrechte im Hinblick auf den Einsatz von KI in bestimmten Anwendungsbereichen, z. B. bei der Gesichtserkennung oder Erleichterung der Entscheidungsfindung von Gerichten. Auch wird das Ausmaß der technologischen Zusammenarbeit im Bereich der KI mit Staaten, die sich nicht an menschenrechtliche Grundstandards halten, aus wirtschaftsethischer und völkerrechtlicher Perspektive diskutiert.[59][60]
+
+Informatik
+	
+Dieser Artikel oder nachfolgende Abschnitt ist nicht hinreichend mit Belegen (beispielsweise Einzelnachweisen) ausgestattet. Angaben ohne ausreichenden Beleg könnten demnächst entfernt werden. Bitte hilf Wikipedia, indem du die Angaben recherchierst und gute Belege einfügst.
+Die Künstliche Intelligenz ist mit den anderen Disziplinen der Informatik eng verzahnt. Eine Abgrenzung kann anhand der erzielten Ergebnisse versucht werden. Hierzu scheint es sinnvoll, verschiedene Dimensionen von Intelligenz zu unterscheiden:
+
+Die Fähigkeit zur Verarbeitung beliebiger Symbole (nicht nur Zahlen).
+Der Aufbau eines inneren Modells der äußeren Welt, eines Selbstmodells, sowie der Beziehung von Selbst und Welt.
+Die Fähigkeit zu einer zweckentsprechenden Anwendung des Wissens.
+Die Fähigkeit, die im gespeicherten Wissen enthaltenen Zusammenhänge aufzudecken, d. h. logisch schlussfolgern zu können.
+Die Fähigkeit zur Verallgemeinerung (Abstraktion) und zur Spezialisierung (d. h. zu Anwendung allgemeiner Zusammenhänge auf konkrete Sachverhalte).
+Das Vermögen, erworbenes Wissen und vorhandene Erfahrung auf neue, bisher unbekannte Situationen zu übertragen.
+Die Fähigkeit, sich planvoll zu verhalten und entsprechende Strategien zum Erreichen der Ziele bilden zu können.
+Anpassungsfähigkeit an verschiedene, u. U. sich zeitlich ändernde Situationen und Problemumgebungen.
+Lernfähigkeit, verbunden mit dem Vermögen, partiellen Fortschritt oder Rückschritt einschätzen zu können.
+Die Fähigkeit, auch in unscharf bzw. unvollständig beschriebenen oder erkannten Situationen handeln zu können.
+Die Fähigkeit zur Mustererkennung (Besitz von Sensoren) und zur aktiven Auseinandersetzung mit der Umwelt (Besitz von Effektoren).
+Über ein Kommunikationsmittel von der Komplexität und Ausdrucksfähigkeit der menschlichen Sprache verfügen.
+Kritik an der KI-Forschung
+Stephen Hawking warnte 2014 vor der KI und sah darin eine Bedrohung für die Menschheit. Durch die KI könnte das Ende der Menschheit eingeleitet werden. Ob die Maschinen irgendwann die Kontrolle übernehmen werden, werde die Zukunft zeigen. Aber bereits heute sei klar, dass die Maschinen die Menschen zunehmend vom Arbeitsmarkt verdrängen.[61][62][63]
+
+Im August 2017 forderten 116 Unternehmer und Experten aus der Technologiebranche (u. a. Mustafa Suleyman, Elon Musk, Yoshua Bengio, Stuart Russell, Jürgen Schmidhuber) in einem offenen Brief an die UN, dass autonome Waffen verboten werden sollten bzw. auf die seit 1983 bestehende CCW-Liste gesetzt werden sollen. Die Certain Conventional Weapons sind von der UN verboten und beinhalten unter anderem Chemiewaffen. Nach Schwarzpulver und der Atombombe drohe die dritte Revolution der Kriegsführung. Zitat aus dem Schreiben: „Wenn diese Büchse der Pandora einmal geöffnet ist, wird es schwierig, sie wieder zu schließen“ und „Einmal erfunden, könnten sie bewaffnete Konflikte erlauben in einem nie dagewesenen Ausmaß, und schneller, als Menschen sie begreifen können“. Terroristen und Despoten könnten die autonomen Waffen nutzen und sogar hacken.[64][65]
+
+Argumentativ entgegengetreten sind solchen Positionen u. a. Rodney Brooks und Jean-Gabriel Ganascia.[66]
+
+Im Februar 2018 wurde ein Bericht einer Projektgruppe führender Experten im Bereich KI veröffentlicht, der vor möglichen „Bösartige[n] Nutzungen künstlicher Intelligenz“ (englischer Originaltitel: „The Malicious Use of Artificial Intelligence“) warnt.[67] Beteiligt waren daran unter anderem Forscher der Universitäten von Oxford, Yale und Stanford, sowie Entwickler von Microsoft und Google. Der Bericht nimmt Bezug auf schon existierende Technologien und demonstriert anhand von diversen Szenarien, wie diese von Terroristen, Kriminellen und despotischen Regierungen missbraucht werden könnten.[67] Die Autoren des Berichts fordern daher eine engere Zusammenarbeit von Forschern, Entwicklern und Gesetzgeber im Bereich KI und schlagen konkrete Maßnahmen vor, wie die Gefahren des Missbrauchs verringert werden könnten.[67]
+
+Der Historiker Yuval Noah Harari sagt, „künstliche Intelligenz und Biotechnologie können zerstören, was den Menschen ausmacht.“ Er warnt vor einem Wettrüsten im Bereich der künstlichen Intelligenz und empfiehlt globale Zusammenarbeit angesichts dieser „existenziellen Bedrohung.“[68]
+
+Der Philosoph Richard David Precht wendet sich gegen die Vorstellung, dass künftig böser Wille oder Machtstreben seitens einer entwickelten künstlichen Intelligenz drohe; das Gefahrenpotential liege vielmehr in ihrem falschen Einsatz.[69]
+
+Vorschläge zum Umgang mit KI
+Der Präsident von Microsoft, Brad Smith schlug vor, einen Verhaltenskodex aufzustellen, wie etwa eine Digitale Genfer Konvention, um Risiken der Künstlichen Intelligenz zu verringern.
+
+Der Ethiker Peter Dabrock empfiehlt im Kontext der Benutzung und Programmierung von Künstlicher Intelligenz nicht nur die digitale Kompetenz der Beteiligten zu erhöhen, sondern auch auf klassische Bildungselemente zu setzen. Um mit den dazugehörigen Herausforderungen zurechtzukommen sowie die Fähigkeiten zur Unterscheidung und zur Erkennung von Mehrdeutigkeit zu erhöhen, seien Kenntnisse aus Religion, Literatur, Mathematik, Fremdsprachen, Musik und Sport eine gute Voraussetzung.[70]
+
+Der Deutsche Bundestag hat am 28. Juni 2018 eine Enquete-Kommission Künstliche Intelligenz – Gesellschaftliche Verantwortung und wirtschaftliche Potenziale eingesetzt.[71] Am 28. Oktober 2020 hat die Kommission ihren Abschlussbericht vorgelegt. Künstliche Intelligenz sein demnach die nächste Stufe der Digitalisierung. Unter dem Leitbild einer „menschenzentrierten KI“ wird eine „demokratische Gestaltung“ der Entwicklung gefordert, so dass KI-Anwendungen vorrangig auf das Wohl und die Würde der Menschen ausgerichtet seien und einen gesellschaftlichen Nutzen bringen. Um einer Diskriminierung von Menschen entgegenzuwirken „braucht es, wenn KI über Menschen urteilt, einen Anspruch auf Transparenz, Nachvollziehbarkeit und Erklärbarkeit von KI-Entscheidungen, damit eine gerichtliche Überprüfung automatisierter Entscheidungen möglich ist“.[72]
+
+Verbreitung von KI in Deutschland
+Die Zahl der Betriebe, die KI-Technologien einsetzen, ist in Deutschland noch relativ gering. Ende 2018 haben nur 6 Prozent der Unternehmen KI genutzt oder implementiert. 17 Prozent haben angegeben, KI-Einsätze zu testen oder zumindest solche zu planen.[73] Auch die ZEW-Studie[74] kommt zu einem ähnlichen Ergebnis. Im Jahr 2019 haben rund 17.500 Unternehmen im Berichtskreis der Innovationserhebung (produzierendes Gewerbe und überwiegend unternehmensorientierte Dienstleistungen) KI in Produkten, Dienstleistungen oder internen Prozessen eingesetzt. Das sind 5,8 Prozent der Unternehmen im Berichtskreis.
+
+Das KI-Observatorium
+Mit dem Observatorium Künstliche Intelligenz in Arbeit und Gesellschaft (kurz: KI-Observatorium), einem Projekt der Denkfabrik Digitale Arbeitsgesellschaft, fokussiert das Bundesministerium für Arbeit und Soziales die Frage nach den Auswirkungen von KI auf Arbeit und Gesellschaft. Das KI-Observatorium agiert an der Schnittstelle zwischen Politik, Wissenschaft, Wirtschaft und Gesellschaft: es fungiert als Wissensträger und Impulsgeber. Das KI-Observatorium hat die Aufgabe, Effekte von KI in der Arbeitswelt frühzeitig zu antizipieren und Handlungsbedarfe aufzuzeigen. Auf diese Weise leistet die im März 2020 gestartete Arbeitseinheit einen Beitrag zur Realisierung der in der KI-Strategie der Bundesregierung formulierten Ziele – etwa zum sicheren und gemeinwohlorientierten Einsatz von KI. Darüber hinaus soll das KI-Observatorium mithilfe von Dialog- und Beteiligungsformaten unterschiedliche gesellschaftliche Akteure im Umgang mit künstlicher Intelligenz befähigen und bestärken.[75]
+
+Die konkreten Aufgabenschwerpunkte des Observatoriums sind in den fünf Handlungsfeldern festgehalten:[76]
+
+1. Technologie-Foresight und Technikfolgenabschätzung
+
+2. KI in der Arbeits- und Sozialverwaltung
+
+3. Ordnungsrahmen für KI/soziale Technikgestaltung
+
+4. Aufbau internationaler und europäischer Strukturen
+
+5. Gesellschaftlicher Dialog und Vernetzung
+
+Darstellung in Film und Literatur
+Seit der Klassischen Moderne wird KI in Kunst, Film und Literatur behandelt.[77] Dabei geht es bei der künstlerischen Verarbeitung – im Gegensatz zur KI-Forschung, bei der die technische Realisierung im Vordergrund steht – vor allem um die moralischen, ethischen und religiösen Aspekte und Folgen einer nicht-menschlichen, „maschinellen Intelligenz“.
+
+In der Renaissance wurde der Begriff des Homunculus geprägt, eines künstlichen Miniaturmenschen ohne Seele.[78] Im 18. und 19. Jahrhundert erschienen in der Literatur menschenähnliche Automaten, beispielsweise in E. T. A. Hoffmanns Der Sandmann und Jean Pauls Der Maschinenmann.
+
+Im 20. und 21. Jahrhundert greift die Science-Fiction in Film und Prosa das Thema mannigfach auf.[79] 1920 prägte der Schriftsteller Karel Čapek den Begriff „Roboter“ in seinem Bühnenstück R.U.R.; 1926 thematisierte Fritz Lang in Metropolis Roboter, welche die Arbeit der Menschen übernehmen.[79]
+
+Dem Filmpublikum wurden in den unterschiedlichen Werken die Roboter als intelligente und differenzierte Maschinen mit ganz unterschiedlichen Persönlichkeiten präsentiert: Sie werden entwickelt, um sie für gute Zwecke einzusetzen, wandeln sich aber häufig zu gefährlichen Maschinen, die feindselige Pläne gegen Menschen entwickeln.[80] Im Lauf der Filmgeschichte werden sie zunehmend zu selbstbewussten Wesen, die sich die Menschheit unterwerfen wollen.[80]
+
+Eine weitere Form künstlerischer Auseinandersetzung mit KI stellt die Litauische Künstlerrepublik Užupis dar. In ihrer Münchener Botschaft fungiert der künstlich intelligente Forschungs-Humanoide „Roboy“ als Konsul und die Verfassung enthält einen eigenen Artikel über künstliche Intelligenz („Any artificial intelligence has the right to believe in a good will of humanity [The Munich Article].“).[81]
+
+Beispiele (Auswahl)
+HAL 9000 in 2001: Odyssee im Weltraum (1968)
+Colossus und Guardian in Colossus (1970)
+Die Androiden in Westworld (1973) und Westworld (2016)
+Die sprechenden Bomben in Dark Star (1974)
+Der Supercomputer Golem aus den Büchern Golem XIV und Also sprach Golem von Stanisław Lem (1981)
+Master Control Programm in Tron (1982)
+Skynet in der Terminator-Filmreihe (ab 1984)
+Nummer 5 in den Filmen Nummer 5 lebt! (1986) und Nummer 5 gibt nicht auf (1988)
+Android Data in Raumschiff Enterprise – Das nächste Jahrhundert (1987–1994)
+Sämtliche Programme (Orakel, Architekt, Agent etc.) in The Matrix (1999)
+Andrew Martin in Der 200 Jahre Mann (2000)
+Die Hauptfigur in A.I. – Künstliche Intelligenz von Steven Spielberg (2001)
+Minority Report (2002)
+Red Queen und White Queen in den Resident-Evil-Filmen (seit 2002)
+Sonny in I, Robot (2004)
+Deep Thought in Per Anhalter durch die Galaxis (2005)
+Person of Interest (ab 2011)
+Real Humans – Echte Menschen (seit 2012)
+Samantha in Her (2013)
+Ava in Ex Machina (2015)
+Humans (2015)
+A.R.E.S. in Schätzings Roman Die Tyrannei des Schmetterlings (2018)
+Androiden im Videospiel Detroit: Become Human (2018)
+Soziale Auswirkungen
+Im Zuge der industriellen Revolution wurde durch die Erfindung der Dampfmaschine die Muskelkraft von der Maschine ersetzt (PS durch Watt). Durch die digitale Revolution könnte die menschliche Denkleistung durch maschinelle KI ersetzt werden.[82]
+
+Der amerikanische Unternehmer Elon Musk prognostiziert, dass es zukünftig immer weniger Erwerbsarbeit geben wird, die nicht von einer Maschine besser und günstiger gemacht werden kann, weshalb immer weniger Arbeitskräfte benötigt würden. Durch die weitgehend maschinelle Produktion würden die Produkte und Dienstleistungen sehr billig werden. In diesem Zusammenhang unterstützt er die Einführung eines bedingungslosen Grundeinkommens.[83] Der Physiker Stephen Hawking meinte: Bereits heute sei klar, dass die Maschinen die Menschen zunehmend vom Arbeitsmarkt verdrängen.[61][62] Microsoft-Gründer Bill Gates sieht die Entwicklung ähnlich. Er fordert eine Robotersteuer, um die sozialen Aufgaben der Zukunft bewältigen zu können.[84]
+
+Die Informatikerin Constanze Kurz erklärte in einem Interview, technischen Fortschritt habe es schon immer gegeben. Jedoch vollzog sich der technische Wandel in der Vergangenheit meist über Generationen, so dass genug Zeit blieb, sich für neue Aufgaben auszubilden. Heute verläuft der technische Wandel innerhalb von wenigen Jahren, so dass die Menschen nicht genug Zeit haben, sich für neue Aufgaben weiter zu bilden.[85] Der Sprecher des Chaos Computer Clubs, Frank Rieger, warnte in verschiedenen Publikationen (z. B. dem Buch Arbeitsfrei)[86] davor, dass durch die beschleunigte Automatisierung vieler Arbeitsbereiche in naher Zukunft immer mehr Menschen ihre Beschäftigung verlieren werden (z. B. LKW-Fahrer durch selbstfahrende Autos). Darin besteht unter anderem eine Gefahr der Schwächung von Gewerkschaften, die an Mitgliedern verlieren könnten. Rieger plädiert daher für eine „Vergesellschaftung der Automatiserungsdividende“, also einer Besteuerung von nichtmenschlicher Arbeit, damit durch das Wachstum der Wirtschaft in Form eines Grundeinkommens auch der allgemeine Wohlstand wächst und gerecht verteilt wird.[87]
+
+Wissenschaftler der Universität Oxford haben in einer Studie im Jahr 2013 eine Vielzahl von Jobs auf ihre Automatisierbarkeit überprüft. Dabei unterteilten die Wissenschaftler die Jobs in verschiedene Risikogruppen. 47 Prozent der betrachteten Jobs in den USA wurden in die höchste Risikogruppe eingeteilt, d. h., dass für diese Jobs das Risiko sehr hoch ist, innerhalb der nächsten ein oder zwei Jahrzehnte (Stand 2013) automatisiert zu werden.[88]
+
+Jack Ma, der Gründer des chinesischen Internetkonzerns Alibaba, mahnte in einem Vortrag, dass die Menschen sich auf erhebliche Umbrüche im Arbeitsmarkt vorbereiten sollten, weil die KI die Welt verändern werde. In den letzten 200 Jahren habe das produzierende Gewerbe und Dienstleistungen die Jobs geschaffen. Nun aber wegen der KIs und den Robotern, werden dort kaum noch Jobs entstehen. Jack Ma kritisierte die heutige Schulausbildung (er war früher Englischlehrer). Die Schüler würden nicht für die Notwendigkeiten von morgen ausgebildet, sondern immer noch auf eine Wirtschaft, die es bald nicht mehr gebe. Die Schulen würden die Arbeitslosen von morgen ausbilden. Es mache keinen Sinn, in Konkurrenz mit den KIs und Robotern treten zu wollen. Die Schüler sollten von den Schulen dazu ausgebildet werden, möglichst innovativ und kreativ zu sein. Jack Ma geht davon aus, dass die KIs viele Jobs zerstören, aber auch viele neue Jobs entstehen lassen würden. Die Frage sei, ob Schüler für diese neuen Jobs ausgebildet würden.[89]
+
+Jürgen Schmidhuber antwortete auf die Frage, ob KIs uns bald den Rang ablaufen werden bzw. ob wir uns Sorgen um unsere Jobs machen müssten: „Künstliche Intelligenzen werden fast alles erlernen, was Menschen können – und noch viel mehr. Ihre neuronalen Netzwerke werden aus Erfahrung klüger und wegen der sich rasch verbilligenden Hardware alle zehn Jahre hundertmal mächtiger. Unsere formelle Theorie des Spaßes erlaubt sogar, Neugierde und Kreativität zu implementieren, um künstliche Wissenschaftler und Künstler zu bauen.“ und „Alle fünf Jahre wird das Rechnen 10-mal billiger. Hält der Trend an, werden kleine Rechner bald so viel rechnen können wie ein menschliches Gehirn, 50 Jahre später wie alle 10 Milliarden Hirne zusammen.“[37] Als Konsequenz aus der aus seiner Sicht unabwendbar fortschreitenden Automatisierung und dem damit einhergehenden Wegfall von Erwerbsarbeitsplätzen sieht Schmidhuber die Notwendigkeit eines Bedingungslosen Grundeinkommens.[90] „Roboterbesitzer werden Steuern zahlen müssen, um die Mitglieder unserer Gesellschaft zu ernähren, die keine existenziell notwendigen Jobs mehr ausüben. Wer dies nicht bis zu einem gewissen Grad unterstützt, beschwört geradezu die Revolution Mensch gegen Maschine herauf.“[91]
+
+Erik Brynjolfsson ist der Auffassung, das Aufkommen radikaler Parteien in den USA und Europa sei die Folge davon, dass viele Menschen heute schon nicht mehr mit dem technischen Fortschritt mithalten könnten. Wenn Menschen ihre Jobs verlieren, werden diese Menschen wütend, so Brynjolfsson. Auch er meint, dass in Zukunft die meisten Jobs von Maschinen erledigt werden.[92]
+
+Mark Zuckerberg äußerte bei einer Rede vor Harvard-Absolventen, dass die Einführung eines bedingungslosen Grundeinkommens notwendig sei. Es könne etwas nicht mehr in Ordnung sein, wenn er als Harvard-Abbrecher innerhalb weniger Jahre Milliarden machen könne, während Millionen von Uni-Absolventen ihre Schulden nicht abbezahlen könnten. Es bräuchte eine Basis, auf der jeder innovativ und kreativ sein könne.[93][94]
+
+Im November 2017 stellte der Deutsche-Bank-Chef John Cryan einen starken Stellenabbau in Aussicht. Das Unternehmen beschäftigt 97.000 Menschen. Bereits in den letzten 12 Monaten wurden 4000 Stellen abgebaut. In naher Zukunft sollen 9000 weitere Stellen abgebaut werden. Mittelfristig sollen die Hälfte aller Stellen abgebaut werden. Cryan begründete diesen Schritt damit, dass die Konkurrenz bereits heute mit etwa der Hälfte der Mitarbeiter vergleichbare Leistung erbringe. Cryan sagte: „Wir machen zu viel Handarbeit, was uns fehleranfällig und ineffizient macht“. Vor allem durch das maschinelle Lernen bzw. künstliche Intelligenzen könnte das Unternehmen noch viel effizienter werden. Viele Banker arbeiteten ohnehin wie Roboter, so Cryan. An die Stelle qualifizierter Mitarbeiter sollen qualifizierte Maschinen treten, so Cryan.[95]
+
+Der Zukunftsforscher Lars Thomson prognostizierte im November 2017 für die nächsten 10 Jahre gewaltige Umbrüche in Technologie, Arbeit, Werten und Gesellschaft. Im Jahr 2025 könne ein Haushalts-Roboter den Frühstückstisch decken, Fenster putzen, Pflegedienste übernehmen usw. wodurch Arbeitsplätze vernichtet werden. Heute schon gäbe es 181 Firmen weltweit, die an klugen Robotern arbeiten. Der Preis eines solchen Roboters betrage heute etwa 20.000 Euro. Der Markt der künstlichen Intelligenz werde in wenigen Jahren größer sein als der Automobilmarkt. Wie schnell 10 Jahre vergingen, würde man sehen, wenn man 10 Jahre zurückblicke, als das erste Smartphone auf den Markt kam. Er bedauert, dass in unserer Gesellschaft kaum jemand diese Entwicklung erkenne, die unsere Gesellschaft komplett verändern werde. In Hotels werden in 10 Jahren Roboter die Arbeiten der heutigen Zimmermädchen übernehmen. Der Vorteil für den Hotelmanager: Der Roboter will keinen Lohn, keine freien Tage, muss nicht versteuert und versichert werden. Der Nachteil: Der Staat erhält keine Steuern mehr und die Menschen sind arbeitslos. Deshalb werde man nicht an einem bedingungslosen Grundeinkommen vorbeikommen und der Einführung einer Robotersteuer. Thomson sieht die Gefahr einer Spaltung der Gesellschaft, wenn das Tempo der Veränderung die Wandlungsfähigkeit der Menschen übersteigt. Gleichzeitig werde die KI den Menschen von der Arbeit befreien. Die Gesellschaft müsse Leitplanken für die KIs definieren.[96]
+
+In einem Interview im Januar 2018 meinte der CEO von Google Sundar Pichai, die aktuelle Entwicklung der künstlichen Intelligenz sei für den Werdegang der Menschheit bedeutender als es die Entdeckung des Feuers und die Entwicklung der Elektrizität waren. Durch die aktuelle Entwicklung der KI werde kein Stein auf dem anderen bleiben. Deshalb sei es wichtig, dass die Gesellschaft sich mit dem Thema auseinandersetze. Nur so könne man die Risiken eingrenzen und die Potentiale ausschöpfen. Google gehört derzeit zu den führenden Unternehmen im Bereich der KI. Allein der KI-Assistent von Google ist bereits auf hunderten Millionen Android-Smartphones installiert. Aber auch in den Suchmaschinen kommt KI derzeit bereits milliardenfach zum Einsatz. Die von Google gekaufte Firma DeepMind eilt bei der KI-Forschung von Meilenstein zu Meilenstein u. a. mit AlphaGo, AlphaGo Zero, AlphaZero.[97]
+
+Das Institut für Arbeitsmarkt- und Berufsforschung (IAB), das zur Bundesagentur für Arbeit gehört, hat in einer Studie von 4/2018[98] dargelegt, welche menschliche Arbeit in Deutschland von Maschinen ersetzt werden kann. Die Studie kommt zum Ergebnis, dass im Jahr 2016 25 Prozent der bezahlten menschlichen Tätigkeiten von Maschinen hätten erledigt werden können, was etwa 8 Millionen Arbeitsplätzen in Deutschland entspricht. Eine frühere Studie kam für das Jahr 2013 noch auf einen Wert von 15 Prozent. Am stärksten betroffen mit etwa 83 Prozent sind Fertigungsberufe aber auch unternehmensbezogene Dienstleistungsberufe mit 60 Prozent, Berufe in der Unternehmensführung und -organisation mit 57 Prozent, Berufe in Land- und Forstwirtschaft und Gartenbau mit 44 Prozent usw. Im Vergleich von 2013 zu 2016 sind besonders stark Logistik- und Verkehrsberufe gestiegen (von 36 auf 56 Prozent), ein Bereich, in dem in Deutschland etwa 2,4 Millionen Menschen beschäftigt sind. Insgesamt geht die Studie davon aus, dass in naher Zukunft 70 Prozent der menschlichen bezahlten Tätigkeiten von Maschinen übernommen werden könnten. Maschinen könnten z. B. übernehmen: Wareneingangskontrolle, Montageprüfung, Kommissionierung, Versicherungsanträge, Steuererklärungen usw. Die Techniken, die diese Veränderungen vorantreiben seien: künstliche Intelligenzen, Big Data, 3-D Druck und virtuelle Realität. Auch wenn es nicht zu Entlassungen kommen würde, so müssen Mitarbeiter zumindest mit starken Veränderungen in ihrem Berufsbild und damit starkem Umlernen rechnen. Es werden auch neue Berufsfelder entstehen. Auch werde nicht alles, was heute schon möglich ist, auch umgesetzt und schon gar nicht sofort. Ein Faktor für diese Verzögerung seien ethische und rechtliche Aspekte aber auch die hohen Kosten der Automatisierung. Nicht immer ist die künstliche Intelligenz billiger als die menschliche Intelligenz.[99]
+
+In einem Gastbeitrag im Februar 2018 meinte der SAP-Chef Bill McDermott, dass sich die Menschen fürchten würden vor den Veränderungen, die eine Welt mit Robotern und KIs mit sich bringt. Ein erster Meilenstein sei der Sieg der Maschine Deep Blue über den amtierenden Schachweltmeister Gary Kasparov im Jahr 1997 gewesen. Ein weiterer Meilenstein sei der Sieg der Maschine Watson über den Menschen in der Quiz-Show Jeopardy im Jahr 2011 gewesen. Und der nächste große Schritt waren dann die Siege von AlphaGo und seinen Nachfolgern AlphaGo Zero und AlphaZero im Jahr 2016 und 2017. Die tiefgreifenden Veränderungen, die KI auch am Arbeitsplatz mit sich bringen würden, seien heute nun in aller Munde. Um etwaige negative Auswirkungen der neuen Techniken auf die Gesellschaft zu vermeiden, verlangte es nun eine durchdachte Planung. Behörden, Privatwirtschaft und Bildungswesen müssten zusammenarbeiten, um junge Menschen die Fähigkeiten zu vermitteln, die diese in der digitalen Wirtschaft benötigen. Umschulungen und lebenslanges Lernen seien heute die neue Normalität. Jobs würden nicht komplett von Maschinen ersetzt werden, sondern meist in Teilbereichen. Es würden auch viele neue Jobs entstehen. Die wirtschaftliche Entwicklung würde durch die KI befeuert werden. Man rechnet für 2030 mit einer Wertschöpfung in dem Bereich von 16 Billionen Dollar und einem Wachstum des Bruttoinlandsprodukts um 26 Prozent. Durch die Automatisierung könnten Unternehmen zukünftig jährlich 3 bis 4 Billionen US-Dollar einsparen.[100]

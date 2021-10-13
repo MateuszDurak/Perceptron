@@ -1,0 +1,68 @@
+Sztuczna inteligencja (ang. artificial intelligence, niem. Künstliche Intelligenz) – inteligencja wykazywana przez urządzenia sztuczne (w przeciwieństwie do inteligencji naturalnej). Termin ten utworzył John McCarthy. W potocznym rozumieniu jest ona często używana w kontekście „prawdziwej sztucznej inteligencji”. W informatyce i kognitywistyce oznacza także tworzenie modeli i programów symulujących choć częściowo zachowania inteligentne[1][2]. Sztuczna inteligencja jest także przedmiotem rozważań filozofii (filozofia sztucznej inteligencji) oraz przedmiotem zainteresowania nauk społecznych.
+
+Termin „sztuczna inteligencja” utworzył John McCarthy w 1956 na konferencji w Dartmouth. Andreas Kaplan i Michael Haenlein definiują sztuczną inteligencję jako „zdolność systemu do prawidłowego interpretowania danych pochodzących z zewnętrznych źródeł, nauki na ich podstawie oraz wykorzystywania tej wiedzy, aby wykonywać określone zadania i osiągać cele poprzez elastyczne dostosowanie”[3]. Sztuczną inteligencją zajmowali się m.in Marvin Minsky, John McCarthy, Alan Turing, Edward Feigenbaum, Raj Reddy, Judea Pearl, Allen Newell, Herbert A. Simon.
+
+Sztuczna inteligencja ma dwa podstawowe znaczenia:
+
+jest to hipotetyczna inteligencja realizowana w procesie technicznym, a nie naturalnym;
+jest to nazwa technologii i dziedzina badań naukowych informatyki i kognitywistyki czerpiąca także z osiągnięć psychologii, neurologii, matematyki i filozofii.
+Głównym zadaniem badań nad sztuczną inteligencją w drugim znaczeniu jest konstruowanie maszyn i programów komputerowych zdolnych do realizacji wybranych funkcji umysłu i ludzkich zmysłów niepoddających się numerycznej algorytmizacji. Problemy takie bywają nazywane AI-trudnymi i zalicza się do nich między innymi:
+
+podejmowanie decyzji w warunkach braku wszystkich danych
+analiza i synteza języków naturalnych
+rozumowanie logiczne/racjonalne,
+automatyczne dowodzenie twierdzeń
+komputerowe gry logiczne, np. szachy, go,
+inteligentne roboty,
+systemy eksperckie i diagnostyczne.
+Sztuczna inteligencja jest powiązana z obszarami uczenia maszynowego, logiki rozmytej, widzenia komputerowego, obliczeń ewolucyjnych, sieci neuronowych, robotyki i sztucznego życia.
+
+
+Spis treści
+1	Historia badań
+2	Współczesne praktyczne zastosowania sztucznej inteligencji
+3	Nieudane próby zastosowań
+4	Sztuczna inteligencja na ludzkim poziomie
+5	Zobacz też
+6	Przypisy
+7	Linki zewnętrzne
+Historia badań
+W 1950 roku Alan Mathison Turing zaproponował by możliwość udawania człowieka w zdalnej rozmowie uznać za test inteligencji maszyn (test Turinga)[4]. w latach 50. XX wieku powstało pierwsze laboratorium AI na Uniwersytecie Carnegie Mellon, założone przez Allena Newella i Herberta Simona i kilka lat później analogiczne laboratorium w Massachusetts Institute of Technology, założone przez Johna McCarthy’ego. Oba te laboratoria są wciąż wiodącymi ośrodkami AI na świecie.
+
+Termin „sztuczna inteligencja” został po raz pierwszy zaproponowany prawdopodobnie przez Johna McCarthy’ego, który w 1955 r. zdefiniował go w następujący sposób:
+
+„konstruowanie maszyn, o których działaniu dałoby się powiedzieć, że są podobne do ludzkich przejawów inteligencji”.
+Istnieją dwa podstawowe podejścia do pracy nad AI:
+
+Pierwsze to tworzenie modeli matematyczno-logicznych analizowanych problemów i implementowanie ich w formie programów komputerowych, mających realizować konkretne funkcje uważane powszechnie za składowe inteligencji. W tej grupie, tzw. podejścia symbolicznego, są np. algorytmy genetyczne, metody logiki rozmytej i wnioskowania bazującego na doświadczeniu.
+Drugie to podejście subsymboliczne polegające na tworzeniu struktur i programów „samouczących się”, bazujących na modelach sieci neuronowej i sieci asocjacyjnych, oraz opracowywanie procedur „uczenia” takich programów, rozwiązywania postawionych im zadań i szukania odpowiedzi na wybrane klasy „pytań”.
+W trakcie wieloletniej pracy laboratoriów i zespołów AI stosujących oba podejścia do problemu, okazało się, że postęp w tej dziedzinie jest i będzie bardzo trudny i powolny. Często mimo niepowodzeń w osiąganiu zaplanowanych celów, laboratoria te wypracowywały nowe techniki informatyczne, które okazywały się użyteczne do zupełnie innych celów. Przykładami takich technik są np. języki programowania LISP i Prolog. Laboratoria AI stały się też „rozsadnikiem” kultury hakerskiej.
+
+Najnowsze podejście do problemów AI to rozwijanie różnych form inteligencji rozproszonej (wzorowanej na organizacjach ludzkich, np. personoidy) oraz tzw. agentów autonomicznych i „inteligentnych”. Dziedzina ta nosi nazwę Technologii Agentów Inteligentnych (ang. Intelligent Agent Technology).
+
+Współczesne praktyczne zastosowania sztucznej inteligencji
+Technologie oparte na logice rozmytej – powszechnie stosowane np. do sterowania przebiegiem procesów technologicznych w fabrykach w warunkach „braku wszystkich danych”.
+Systemy eksperckie – systemy wykorzystujące bazę wiedzy (zapisaną w sposób deklaratywny) i mechanizmy wnioskowania do rozwiązywania problemów.
+Maszynowe tłumaczenie tekstów – systemy tłumaczące nie dorównują człowiekowi, robią intensywne postępy, nadają się szczególnie do tłumaczenia tekstów technicznych.
+Sieci neuronowe – stosowane z powodzeniem w wielu zastosowaniach łącznie z programowaniem „inteligentnych przeciwników” w grach komputerowych.
+Uczenie się maszyn – dział sztucznej inteligencji zajmujący się algorytmami potrafiącymi uczyć się podejmować decyzje bądź nabywać wiedzę.
+Eksploracja danych – omawia obszary, powiązanie z potrzebami informacyjnymi, pozyskiwaniem wiedzy, stosowane techniki analizy, oczekiwane rezultaty.
+Rozpoznawanie obrazów – stosowane są już programy rozpoznające osoby na podstawie zdjęcia twarzy lub rozpoznające automatycznie zadane obiekty na zdjęciach satelitarnych.
+Rozpoznawanie mowy i rozpoznawanie mówców – stosowane już powszechnie na skalę komercyjną.
+Rozpoznawanie pisma (OCR) – stosowane już masowo np. do automatycznego sortowania listów, rozpoznawania treści życiorysów[5] oraz w elektronicznych notatnikach.
+Sztuczna twórczość – istnieją programy automatycznie generujące krótkie formy poetyckie, komponujące, aranżujące i interpretujące utwory muzyczne, które są w stanie skutecznie „zmylić” nawet profesjonalnych artystów, tak, że ci nie uznają utworów za sztucznie wygenerowane.
+W ekonomii, powszechnie stosuje się systemy automatycznie oceniające m.in. zdolność kredytową, profil najlepszych klientów, czy planujące kampanie reklamowe. Systemy te poddawane są wcześniej automatycznemu uczeniu na podstawie posiadanych danych (np. klientów banku, którzy regularnie spłacali kredyt i klientów, którzy mieli z tym problemy).
+Inteligentne interfejsy – stosowane do zautomatyzowanego zarządzania, monitorowania, raportowania oraz podjęcia prób rozwiązywania potencjalnych problemów w procesach technologicznych.
+Prognozowanie i wykrywanie oszustw – przy użyciu m.in. regresji logistycznej systemy analizują zbiory danych w celu wychwytywania np. podejrzanych transakcji finansowych[6].
+Nieudane próby zastosowań
+ Osobne artykuły: Postęp w sztucznej inteligencji i paradoks Moraveca.
+Programy skutecznie wygrywające w niektórych grach. Jak dotąd nie ma programów skutecznie wygrywających np. w brydża sportowego. Istnieją programy grające w szachy na poziomie wyższym niż arcymistrzowski, a poziom arcymistrzowski osiągają obecnie programy działające na mobilnych urządzeniach[7]. Podobnie, stworzono program grający w Go, który pokonał światową czołówkę[8]. Wcześniej podobne zwycięstwa odnosiły programy grające w warcaby i warcaby polskie[9].
+Programy idealnie naśladujące ludzi, rozmawiające przy użyciu tekstu, które potrafiłyby przejść test Turinga. Istnieją programy do konwersacji z komputerem, ale każdy człowiek, który miał z nimi wcześniej do czynienia, w krótkim czasie jest w stanie zorientować się, że rozmawia z maszyną, a nie innym człowiekiem.
+Programy skutecznie tłumaczące teksty literackie i mowę potoczną. Istnieją programy do automatycznego tłumaczenia, ale sprawdzają się one tylko w bardzo ograniczonym stopniu. Podstawową trudnością jest tu złożoność i niejasność języków naturalnych, a w szczególności brak zrozumienia przez program znaczenia tekstu.
+Programy wykorzystujące sztuczną inteligencję do sprawdzania prac domowych uczniów, generujące wynik już po kilku sekundach. W teorii bardzo dobre rozwiązanie problemu, który może być czasochłonny przy dużej ilości prac do sprawdzenia. Niestety próba implementacji algorytmu nie powiodła się i na łamach portalu The Verge opisano historię[10], gdzie uczniowie złamali algorytm sztucznej inteligencji, która sprawdzała prace domowe uczniów, wykorzystując technikę obserwacji słów kluczowych.
+Sztuczna inteligencja na ludzkim poziomie
+Połowa przepytanych ekspertów uważa, iż istnieje 50% prawdopodobieństwo na osiągnięcie przez AI ludzkiego poziomu przed 2040 rokiem[11]. W mniejszej ankiecie 42% badaczy stwierdziło, że AI na ludzkim poziomie powstanie przed 2030 rokiem, a 67% – 2050 rokiem[12].
+
+Grupa chińskich naukowców w pracy z 2015 roku ogłosiła, iż program komputerowy ich autorstwa osiągał lepszy wynik niż przeciętnie ludzie (w tym dzieci) podczas testu IQ opartego na komunikatach werbalnych[13].
+
+Również w roku 2015 amerykańscy badacze ogłosili stworzenie programu, który w zawodach z analizy danych pokonał 615 na 906 drużyn złożonych z ludzi[14][15].
